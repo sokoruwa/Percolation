@@ -1,4 +1,2 @@
 # Percolation
-# Percolation
-# Percolation
-# Percolation
+
